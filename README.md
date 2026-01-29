@@ -6,7 +6,7 @@ A hands-on enterprise security lab focused on **network segmentation, secure acc
 
 ## 🔷 Network Architecture
 
-![Network Architecture](diagrams/network-architecture.png)
+![Network Architecture](diagrams/network-architecture.png/)
 
 **5 security zones were designed and enforced:**
 - Outside (Untrusted Internet)
@@ -22,7 +22,7 @@ Reduce attack surface and prevent lateral movement by enforcing strict zone isol
 
 ## 🔐 Firewall Policy Enforcement (Palo Alto NGFW)
 
-![Palo Alto Firewall Rules](screenshots/firewall-rules.png)
+![Palo Alto Firewall Rules](screenshots/firewall-rules.png/)
 
 **What was configured:**
 - Zone-based security policies
