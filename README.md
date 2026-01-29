@@ -1,2 +1,4 @@
-# enterprise-network-security-architecture
-Multi-zone enterprise network security project with firewalls, SIEM, MFA, and automated response
+# Enterprise Network Security Architecture & Automation
+
+## Network Architecture Diagram
+![Network Architecture](diagrams/network-architecture.png)
